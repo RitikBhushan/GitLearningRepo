@@ -7,6 +7,7 @@ public class hello {
 System.out.println("Hello Every one"); 
 
 System.out.println("afjgkjkfsg");
+System.out.println("new change");
 	}
 
 }
